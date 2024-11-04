@@ -106,7 +106,7 @@
 
 <script>
 import AddOrUpdate from "./brand-add-or-update";
-import CategoryCascader from "../../common/category-cascader.vue";
+import CategoryCascader from "../common/category-cascader";
 export default {
   data() {
     return {
